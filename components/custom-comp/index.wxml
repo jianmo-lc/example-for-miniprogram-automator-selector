@@ -1,0 +1,12 @@
+<view class="custom-comp-warp">
+  <view class="btn-wrap">
+    <button type="primary" class="btn">JS-1</button>
+    <button type="default" class="btn">WXML-1</button>
+    <button type="warn" class="btn">JSON-1</button>
+  </view>
+  <view class="btn-wrap">
+    <button type="primary" class="btn">JS-2</button>
+    <button type="default" class="btn">WXML-2</button>
+    <button type="warn" class="btn">JSON-2</button>
+  </view>
+</view>

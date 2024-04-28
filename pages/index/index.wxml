@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<scroll-view class="scrollarea" scroll-y type="list">
+  <view class="container" id="container">
+    <custom-comp></custom-comp>
+  </view>
+</scroll-view>

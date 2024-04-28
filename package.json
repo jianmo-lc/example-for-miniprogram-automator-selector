@@ -1,0 +1,18 @@
+{
+  "name": "example-for-miniprogram-automator-selector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "miniprogram-automator": "^0.12.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
